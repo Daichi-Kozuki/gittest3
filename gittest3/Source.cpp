@@ -5,6 +5,7 @@
 int main(void)
 {
 	printf("‰‚ß‚Ä‚ÌGithub\n");
+	printf("“ñ“x–Ú‚ÌGithubH\n");
 	rewind(stdin);
 	getchar();
 
