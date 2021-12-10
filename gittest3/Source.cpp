@@ -1,11 +1,12 @@
-//github visualstdio‚©‚ç‚ÌƒŠƒ|ƒWƒgƒŠ‚Ìì‚è•û
+//github visualstdioã‹ã‚‰ã®ãƒªãƒã‚¸ãƒˆãƒªã®ä½œã‚Šæ–¹
 
 #include <stdio.h>
 
 int main(void)
 {
-	printf("‰‚ß‚Ä‚ÌGithub\n");
-	printf("“ñ“x–Ú‚ÌGithubH\n");
+	printf("åˆã‚ã¦ã®Github\n");
+	printf("äºŒåº¦ç›®ã®Githubï¼Ÿ\n");
+	printf("ï½åº¦ç›®ã®Githubï¼¿ä¸Šæœˆå¤§åœ°\n");
 	rewind(stdin);
 	getchar();
 
