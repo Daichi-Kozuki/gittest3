@@ -4,6 +4,7 @@
 
 int main(void)
 {
+	printf("‰‚ß‚Ä‚ÌGithub\n");
 	rewind(stdin);
 	getchar();
 
